@@ -1,0 +1,91 @@
+ANOVA for duration_in_month by account_check_status:  F-statistic: 4.76, p-value: 0.003  Significant difference in duration_in_month between different account_check_status.
+ANOVA for credit_amount by account_check_status:  F-statistic: 7.19, p-value: 0.000  Significant difference in credit_amount between different account_check_status.
+ANOVA for installment_as_income_perc by account_check_status:  F-statistic: 1.86, p-value: 0.135  No significant difference in installment_as_income_perc between different account_check_status .
+ANOVA for present_res_since by account_check_status:  F-statistic: 3.97, p-value: 0.008  Significant difference in present_res_since between different account_check_status.
+ANOVA for age by account_check_status:  F-statistic: 2.76, p-value: 0.041  Significant difference in age between different account_check_status.
+ANOVA for credits_this_bank by account_check_status:  F-statistic: 3.21, p-value: 0.023  Significant difference in credits_this_bank between different account_check_status.
+ANOVA for people_under_maintenance by account_check_status:  F-statistic: 1.98, p-value: 0.116  No significant difference in people_under_maintenance between different account_check_status .
+ANOVA for duration_in_month by credit_history:  F-statistic: 9.80, p-value: 0.000  Significant difference in duration_in_month between different credit_history.
+ANOVA for credit_amount by credit_history:  F-statistic: 9.65, p-value: 0.000  Significant difference in credit_amount between different credit_history.
+ANOVA for installment_as_income_perc by credit_history:  F-statistic: 1.33, p-value: 0.258  No significant difference in installment_as_income_perc between different credit_history .
+ANOVA for present_res_since by credit_history:  F-statistic: 2.45, p-value: 0.045  Significant difference in present_res_since between different credit_history.
+ANOVA for age by credit_history:  F-statistic: 8.03, p-value: 0.000  Significant difference in age between different credit_history.
+ANOVA for credits_this_bank by credit_history:  F-statistic: 136.39, p-value: 0.000  Significant difference in credits_this_bank between different credit_history.
+ANOVA for people_under_maintenance by credit_history:  F-statistic: 2.40, p-value: 0.049  Significant difference in people_under_maintenance between different credit_history.
+ANOVA for duration_in_month by purpose:  F-statistic: 8.91, p-value: 0.000  Significant difference in duration_in_month between different purpose.
+ANOVA for credit_amount by purpose:  F-statistic: 17.55, p-value: 0.000  Significant difference in credit_amount between different purpose.
+ANOVA for installment_as_income_perc by purpose:  F-statistic: 3.81, p-value: 0.000  Significant difference in installment_as_income_perc between different purpose.
+ANOVA for present_res_since by purpose:  F-statistic: 2.60, p-value: 0.006  Significant difference in present_res_since between different purpose.
+ANOVA for age by purpose:  F-statistic: 3.34, p-value: 0.000  Significant difference in age between different purpose.
+ANOVA for credits_this_bank by purpose:  F-statistic: 2.43, p-value: 0.010  Significant difference in credits_this_bank between different purpose.
+ANOVA for people_under_maintenance by purpose:  F-statistic: 3.03, p-value: 0.001  Significant difference in people_under_maintenance between different purpose.
+ANOVA for duration_in_month by savings:  F-statistic: 2.80, p-value: 0.025  Significant difference in duration_in_month between different savings.
+ANOVA for credit_amount by savings:  F-statistic: 4.24, p-value: 0.002  Significant difference in credit_amount between different savings.
+ANOVA for installment_as_income_perc by savings:  F-statistic: 0.54, p-value: 0.706  No significant difference in installment_as_income_perc between different savings .
+ANOVA for present_res_since by savings:  F-statistic: 2.46, p-value: 0.044  Significant difference in present_res_since between different savings.
+ANOVA for age by savings:  F-statistic: 3.19, p-value: 0.013  Significant difference in age between different savings.
+ANOVA for credits_this_bank by savings:  F-statistic: 1.39, p-value: 0.235  No significant difference in credits_this_bank between different savings .
+ANOVA for people_under_maintenance by savings:  F-statistic: 0.29, p-value: 0.887  No significant difference in people_under_maintenance between different savings .
+ANOVA for duration_in_month by present_emp_since:  F-statistic: 2.22, p-value: 0.065  No significant difference in duration_in_month between different present_emp_since .
+ANOVA for credit_amount by present_emp_since:  F-statistic: 3.15, p-value: 0.014  Significant difference in credit_amount between different present_emp_since.
+ANOVA for installment_as_income_perc by present_emp_since:  F-statistic: 5.01, p-value: 0.001  Significant difference in installment_as_income_perc between different present_emp_since.
+ANOVA for present_res_since by present_emp_since:  F-statistic: 29.46, p-value: 0.000  Significant difference in present_res_since between different present_emp_since.
+ANOVA for age by present_emp_since:  F-statistic: 50.15, p-value: 0.000  Significant difference in age between different present_emp_since.
+ANOVA for credits_this_bank by present_emp_since:  F-statistic: 6.10, p-value: 0.000  Significant difference in credits_this_bank between different present_emp_since.
+ANOVA for people_under_maintenance by present_emp_since:  F-statistic: 2.41, p-value: 0.048  Significant difference in people_under_maintenance between different present_emp_since.
+ANOVA for duration_in_month by personal_status_sex:  F-statistic: 6.02, p-value: 0.000  Significant difference in duration_in_month between different personal_status_sex.
+ANOVA for credit_amount by personal_status_sex:  F-statistic: 12.03, p-value: 0.000  Significant difference in credit_amount between different personal_status_sex.
+ANOVA for installment_as_income_perc by personal_status_sex:  F-statistic: 6.93, p-value: 0.000  Significant difference in installment_as_income_perc between different personal_status_sex.
+ANOVA for present_res_since by personal_status_sex:  F-statistic: 4.35, p-value: 0.005  Significant difference in present_res_since between different personal_status_sex.
+ANOVA for age by personal_status_sex:  F-statistic: 21.35, p-value: 0.000  Significant difference in age between different personal_status_sex.
+ANOVA for credits_this_bank by personal_status_sex:  F-statistic: 4.74, p-value: 0.003  Significant difference in credits_this_bank between different personal_status_sex.
+ANOVA for people_under_maintenance by personal_status_sex:  F-statistic: 29.18, p-value: 0.000  Significant difference in people_under_maintenance between different personal_status_sex.
+ANOVA for duration_in_month by other_debtors:  F-statistic: 1.17, p-value: 0.311  No significant difference in duration_in_month between different other_debtors .
+ANOVA for credit_amount by other_debtors:  F-statistic: 5.05, p-value: 0.007  Significant difference in credit_amount between different other_debtors.
+ANOVA for installment_as_income_perc by other_debtors:  F-statistic: 0.11, p-value: 0.896  No significant difference in installment_as_income_perc between different other_debtors .
+ANOVA for present_res_since by other_debtors:  F-statistic: 0.40, p-value: 0.670  No significant difference in present_res_since between different other_debtors .
+ANOVA for age by other_debtors:  F-statistic: 0.48, p-value: 0.621  No significant difference in age between different other_debtors .
+ANOVA for credits_this_bank by other_debtors:  F-statistic: 0.33, p-value: 0.719  No significant difference in credits_this_bank between different other_debtors .
+ANOVA for people_under_maintenance by other_debtors:  F-statistic: 1.15, p-value: 0.317  No significant difference in people_under_maintenance between different other_debtors .
+ANOVA for duration_in_month by property:  F-statistic: 33.87, p-value: 0.000  Significant difference in duration_in_month between different property.
+ANOVA for credit_amount by property:  F-statistic: 37.44, p-value: 0.000  Significant difference in credit_amount between different property.
+ANOVA for installment_as_income_perc by property:  F-statistic: 1.03, p-value: 0.379  No significant difference in installment_as_income_perc between different property .
+ANOVA for present_res_since by property:  F-statistic: 12.65, p-value: 0.000  Significant difference in present_res_since between different property.
+ANOVA for age by property:  F-statistic: 17.66, p-value: 0.000  Significant difference in age between different property.
+ANOVA for credits_this_bank by property:  F-statistic: 0.11, p-value: 0.952  No significant difference in credits_this_bank between different property .
+ANOVA for people_under_maintenance by property:  F-statistic: 3.01, p-value: 0.029  Significant difference in people_under_maintenance between different property.
+ANOVA for duration_in_month by other_installment_plans:  F-statistic: 3.04, p-value: 0.048  Significant difference in duration_in_month between different other_installment_plans.
+ANOVA for credit_amount by other_installment_plans:  F-statistic: 1.17, p-value: 0.312  No significant difference in credit_amount between different other_installment_plans .
+ANOVA for installment_as_income_perc by other_installment_plans:  F-statistic: 1.64, p-value: 0.195  No significant difference in installment_as_income_perc between different other_installment_plans .
+ANOVA for present_res_since by other_installment_plans:  F-statistic: 1.53, p-value: 0.217  No significant difference in present_res_since between different other_installment_plans .
+ANOVA for age by other_installment_plans:  F-statistic: 1.11, p-value: 0.331  No significant difference in age between different other_installment_plans .
+ANOVA for credits_this_bank by other_installment_plans:  F-statistic: 1.26, p-value: 0.283  No significant difference in credits_this_bank between different other_installment_plans .
+ANOVA for people_under_maintenance by other_installment_plans:  F-statistic: 2.99, p-value: 0.051  No significant difference in people_under_maintenance between different other_installment_plans .
+ANOVA for duration_in_month by housing:  F-statistic: 19.12, p-value: 0.000  Significant difference in duration_in_month between different housing.
+ANOVA for credit_amount by housing:  F-statistic: 21.16, p-value: 0.000  Significant difference in credit_amount between different housing.
+ANOVA for installment_as_income_perc by housing:  F-statistic: 4.53, p-value: 0.011  Significant difference in installment_as_income_perc between different housing.
+ANOVA for present_res_since by housing:  F-statistic: 51.94, p-value: 0.000  Significant difference in present_res_since between different housing.
+ANOVA for age by housing:  F-statistic: 51.87, p-value: 0.000  Significant difference in age between different housing.
+ANOVA for credits_this_bank by housing:  F-statistic: 1.69, p-value: 0.185  No significant difference in credits_this_bank between different housing .
+ANOVA for people_under_maintenance by housing:  F-statistic: 8.06, p-value: 0.000  Significant difference in people_under_maintenance between different housing.
+ANOVA for duration_in_month by job:  F-statistic: 16.68, p-value: 0.000  Significant difference in duration_in_month between different job.
+ANOVA for credit_amount by job:  F-statistic: 41.86, p-value: 0.000  Significant difference in credit_amount between different job.
+ANOVA for installment_as_income_perc by job:  F-statistic: 4.17, p-value: 0.006  Significant difference in installment_as_income_perc between different job.
+ANOVA for present_res_since by job:  F-statistic: 0.42, p-value: 0.741  No significant difference in present_res_since between different job .
+ANOVA for age by job:  F-statistic: 9.23, p-value: 0.000  Significant difference in age between different job.
+ANOVA for credits_this_bank by job:  F-statistic: 1.22, p-value: 0.301  No significant difference in credits_this_bank between different job .
+ANOVA for people_under_maintenance by job:  F-statistic: 7.23, p-value: 0.000  Significant difference in people_under_maintenance between different job.
+ANOVA for duration_in_month by telephone:  F-statistic: 27.83, p-value: 0.000  Significant difference in duration_in_month between different telephone.
+ANOVA for credit_amount by telephone:  F-statistic: 82.94, p-value: 0.000  Significant difference in credit_amount between different telephone.
+ANOVA for installment_as_income_perc by telephone:  F-statistic: 0.21, p-value: 0.649  No significant difference in installment_as_income_perc between different telephone .
+ANOVA for present_res_since by telephone:  F-statistic: 9.16, p-value: 0.003  Significant difference in present_res_since between different telephone.
+ANOVA for age by telephone:  F-statistic: 21.51, p-value: 0.000  Significant difference in age between different telephone.
+ANOVA for credits_this_bank by telephone:  F-statistic: 4.31, p-value: 0.038  Significant difference in credits_this_bank between different telephone.
+ANOVA for people_under_maintenance by telephone:  F-statistic: 0.22, p-value: 0.641  No significant difference in people_under_maintenance between different telephone .
+ANOVA for duration_in_month by foreign_worker:  F-statistic: 19.43, p-value: 0.000  Significant difference in duration_in_month between different foreign_worker.
+ANOVA for credit_amount by foreign_worker:  F-statistic: 2.51, p-value: 0.114  No significant difference in credit_amount between different foreign_worker .
+ANOVA for installment_as_income_perc by foreign_worker:  F-statistic: 8.15, p-value: 0.004  Significant difference in installment_as_income_perc between different foreign_worker.
+ANOVA for present_res_since by foreign_worker:  F-statistic: 2.93, p-value: 0.087  No significant difference in present_res_since between different foreign_worker .
+ANOVA for age by foreign_worker:  F-statistic: 0.04, p-value: 0.846  No significant difference in age between different foreign_worker .
+ANOVA for credits_this_bank by foreign_worker:  F-statistic: 0.09, p-value: 0.759  No significant difference in credits_this_bank between different foreign_worker .
+ANOVA for people_under_maintenance by foreign_worker:  F-statistic: 5.96, p-value: 0.015  Significant difference in people_under_maintenance between different foreign_worker.

@@ -1,0 +1,7 @@
+T-Test for duration_in_month by Default:  T-statistic: 6.47, p-value: 0.000  Significant difference in duration_in_month between Default and Non-default groups.
+T-Test for credit_amount by Default:  T-statistic: 4.26, p-value: 0.000  Significant difference in credit_amount between Default and Non-default groups.
+T-Test for installment_as_income_perc by Default:  T-statistic: 2.33, p-value: 0.020  Significant difference in installment_as_income_perc between Default and Non-default groups.
+T-Test for present_res_since by Default:  T-statistic: 0.09, p-value: 0.925  No significant difference in present_res_since between Default and Non-default groups.
+T-Test for age by Default:  T-statistic: -2.91, p-value: 0.004  Significant difference in age between Default and Non-default groups.
+T-Test for credits_this_bank by Default:  T-statistic: -1.47, p-value: 0.142  No significant difference in credits_this_bank between Default and Non-default groups.
+T-Test for people_under_maintenance by Default:  T-statistic: -0.10, p-value: 0.924  No significant difference in people_under_maintenance between Default and Non-default groups.

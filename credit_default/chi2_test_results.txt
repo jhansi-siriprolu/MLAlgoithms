@@ -1,0 +1,156 @@
+  Significant relationship between account_check_status and credit_history.
+  Significant relationship between account_check_status and purpose.
+  Significant relationship between account_check_status and savings.
+  Significant relationship between account_check_status and present_emp_since.
+  No significant relationship between account_check_status and personal_status_sex.
+  Significant relationship between account_check_status and other_debtors.
+  Significant relationship between account_check_status and property.
+  No significant relationship between account_check_status and other_installment_plans.
+  Significant relationship between account_check_status and housing.
+  Significant relationship between account_check_status and job.
+  No significant relationship between account_check_status and telephone.
+  No significant relationship between account_check_status and foreign_worker.
+  Significant relationship between credit_history and account_check_status.
+  Significant relationship between credit_history and purpose.
+  No significant relationship between credit_history and savings.
+  Significant relationship between credit_history and present_emp_since.
+  Significant relationship between credit_history and personal_status_sex.
+  No significant relationship between credit_history and other_debtors.
+  No significant relationship between credit_history and property.
+  Significant relationship between credit_history and other_installment_plans.
+  Significant relationship between credit_history and housing.
+  No significant relationship between credit_history and job.
+  No significant relationship between credit_history and telephone.
+  No significant relationship between credit_history and foreign_worker.
+  Significant relationship between purpose and account_check_status.
+  Significant relationship between purpose and credit_history.
+  Significant relationship between purpose and savings.
+  Significant relationship between purpose and present_emp_since.
+  Significant relationship between purpose and personal_status_sex.
+  Significant relationship between purpose and other_debtors.
+  Significant relationship between purpose and property.
+  Significant relationship between purpose and other_installment_plans.
+  Significant relationship between purpose and housing.
+  Significant relationship between purpose and job.
+  Significant relationship between purpose and telephone.
+  Significant relationship between purpose and foreign_worker.
+  Significant relationship between savings and account_check_status.
+  No significant relationship between savings and credit_history.
+  Significant relationship between savings and purpose.
+  Significant relationship between savings and present_emp_since.
+  No significant relationship between savings and personal_status_sex.
+  Significant relationship between savings and other_debtors.
+  No significant relationship between savings and property.
+  No significant relationship between savings and other_installment_plans.
+  No significant relationship between savings and housing.
+  No significant relationship between savings and job.
+  No significant relationship between savings and telephone.
+  No significant relationship between savings and foreign_worker.
+  Significant relationship between present_emp_since and account_check_status.
+  Significant relationship between present_emp_since and credit_history.
+  Significant relationship between present_emp_since and purpose.
+  Significant relationship between present_emp_since and savings.
+  Significant relationship between present_emp_since and personal_status_sex.
+  No significant relationship between present_emp_since and other_debtors.
+  Significant relationship between present_emp_since and property.
+  No significant relationship between present_emp_since and other_installment_plans.
+  Significant relationship between present_emp_since and housing.
+  Significant relationship between present_emp_since and job.
+  Significant relationship between present_emp_since and telephone.
+  No significant relationship between present_emp_since and foreign_worker.
+  No significant relationship between personal_status_sex and account_check_status.
+  Significant relationship between personal_status_sex and credit_history.
+  Significant relationship between personal_status_sex and purpose.
+  No significant relationship between personal_status_sex and savings.
+  Significant relationship between personal_status_sex and present_emp_since.
+  No significant relationship between personal_status_sex and other_debtors.
+  Significant relationship between personal_status_sex and property.
+  No significant relationship between personal_status_sex and other_installment_plans.
+  Significant relationship between personal_status_sex and housing.
+  Significant relationship between personal_status_sex and job.
+  Significant relationship between personal_status_sex and telephone.
+  No significant relationship between personal_status_sex and foreign_worker.
+  Significant relationship between other_debtors and account_check_status.
+  No significant relationship between other_debtors and credit_history.
+  Significant relationship between other_debtors and purpose.
+  Significant relationship between other_debtors and savings.
+  No significant relationship between other_debtors and present_emp_since.
+  No significant relationship between other_debtors and personal_status_sex.
+  Significant relationship between other_debtors and property.
+  No significant relationship between other_debtors and other_installment_plans.
+  No significant relationship between other_debtors and housing.
+  Significant relationship between other_debtors and job.
+  No significant relationship between other_debtors and telephone.
+  Significant relationship between other_debtors and foreign_worker.
+  Significant relationship between property and account_check_status.
+  No significant relationship between property and credit_history.
+  Significant relationship between property and purpose.
+  No significant relationship between property and savings.
+  Significant relationship between property and present_emp_since.
+  Significant relationship between property and personal_status_sex.
+  Significant relationship between property and other_debtors.
+  Significant relationship between property and other_installment_plans.
+  Significant relationship between property and housing.
+  Significant relationship between property and job.
+  Significant relationship between property and telephone.
+  Significant relationship between property and foreign_worker.
+  No significant relationship between other_installment_plans and account_check_status.
+  Significant relationship between other_installment_plans and credit_history.
+  Significant relationship between other_installment_plans and purpose.
+  No significant relationship between other_installment_plans and savings.
+  No significant relationship between other_installment_plans and present_emp_since.
+  No significant relationship between other_installment_plans and personal_status_sex.
+  No significant relationship between other_installment_plans and other_debtors.
+  Significant relationship between other_installment_plans and property.
+  Significant relationship between other_installment_plans and housing.
+  No significant relationship between other_installment_plans and job.
+  No significant relationship between other_installment_plans and telephone.
+  No significant relationship between other_installment_plans and foreign_worker.
+  Significant relationship between housing and account_check_status.
+  Significant relationship between housing and credit_history.
+  Significant relationship between housing and purpose.
+  No significant relationship between housing and savings.
+  Significant relationship between housing and present_emp_since.
+  Significant relationship between housing and personal_status_sex.
+  No significant relationship between housing and other_debtors.
+  Significant relationship between housing and property.
+  Significant relationship between housing and other_installment_plans.
+  Significant relationship between housing and job.
+  Significant relationship between housing and telephone.
+  No significant relationship between housing and foreign_worker.
+  Significant relationship between job and account_check_status.
+  No significant relationship between job and credit_history.
+  Significant relationship between job and purpose.
+  No significant relationship between job and savings.
+  Significant relationship between job and present_emp_since.
+  Significant relationship between job and personal_status_sex.
+  Significant relationship between job and other_debtors.
+  Significant relationship between job and property.
+  No significant relationship between job and other_installment_plans.
+  Significant relationship between job and housing.
+  Significant relationship between job and telephone.
+  Significant relationship between job and foreign_worker.
+  No significant relationship between telephone and account_check_status.
+  No significant relationship between telephone and credit_history.
+  Significant relationship between telephone and purpose.
+  No significant relationship between telephone and savings.
+  Significant relationship between telephone and present_emp_since.
+  Significant relationship between telephone and personal_status_sex.
+  No significant relationship between telephone and other_debtors.
+  Significant relationship between telephone and property.
+  No significant relationship between telephone and other_installment_plans.
+  Significant relationship between telephone and housing.
+  Significant relationship between telephone and job.
+  Significant relationship between telephone and foreign_worker.
+  No significant relationship between foreign_worker and account_check_status.
+  No significant relationship between foreign_worker and credit_history.
+  Significant relationship between foreign_worker and purpose.
+  No significant relationship between foreign_worker and savings.
+  No significant relationship between foreign_worker and present_emp_since.
+  No significant relationship between foreign_worker and personal_status_sex.
+  Significant relationship between foreign_worker and other_debtors.
+  Significant relationship between foreign_worker and property.
+  No significant relationship between foreign_worker and other_installment_plans.
+  No significant relationship between foreign_worker and housing.
+  Significant relationship between foreign_worker and job.
+  Significant relationship between foreign_worker and telephone.
