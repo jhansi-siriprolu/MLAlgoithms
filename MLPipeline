@@ -1,0 +1,85 @@
+Problem Definition
+Hypothesis Generation
+Data Collection/Extraction
+Data Exploration and Transformation
+Predective Modeling
+Model Deployment/Exploration
+
+WHY EDA:
+1. Draw insights and inferences from data that help us in
+        Variable Identification(What dtype)
+        Behaviour of variables(The range of values)
+        Relationship between variables(correlation)
+2. Check for Data Consistency
+        All teh data is present ? 
+        any missing ?
+        any outliers ?
+3. Feature engineering
+        gives ideas for feature engineering
+
+All three above
+        Insights of data
+        Data consistency
+        Feature Engineering
+    are bed rock for predictive modelling, 
+    EDA can make or brake PREDICTIVE MODELLING
+
+EDA STEPS: 5 steps
+    1. Variable identification - dtype
+    2. Univariate analysis (numeric- categorical): analyse charecteristics of a variable using    statistics
+    3. Bivariate analysis shows how 2 feature depend or analyze with each other
+    4. Missing value treatment : Why they are missing and any patterns in missing data
+    5. Outlier Removal
+
+Important statistics for EDA:
+        Statistics is science of analysis and iterpretation of data
+        with rules and concepts required.
+
+        Univariate Analysis: central tendencies(Mean, median, mode, Range)
+                             distributions
+                             spread of data
+
+        Bivariate Analysis: 
+            relationship between variables -  Correlation and covariance,
+            Similarity/ Hypothesis testing : Z-test and chi-square test
+
+                Example: Gender vs height
+                        Is Male and Female group different., gender difference on heights
+
+                        Is the difference significant enough ?
+            Experiments: T-tests(one sample, paired, two-sample) quantify if experiments are success or not
+
+            Population estimation: Central Limit theorem
+                            Draw a complete big picture based on the sample
+Statistics quantify and explain the EDA
+Descriptive Statistics: 
+            Summarization of data
+            Central tendency
+            spread of data
+            relation between variables
+
+Inferential Statistics:
+            Approximation
+            Sampling
+            Error analysis of the sample
+
+    
+Probalibility:
+Random Experiment
+Sample Space
+Event
+P(Event) = count of outcomes of in an event
+            --------------------------------
+            count of outcomes in the sample space
+
+Complement of an event : All element in sample space but not in a event
+Intersection : collection of all outcomes that are common in events
+        Among all customers who default, what is the probability of one being no checking account and savings to default
+
+Union : All outcomes from any of the event
+
+ADDITIVE RULE OF THE PROBABILITY: 
+            P(A U M) = P(A) + P(B) - P(A ^ B)
+
+AXIOMS OF PROBABILITY:
+
